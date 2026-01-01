@@ -1,0 +1,17 @@
+air monitoring-
+1)pH sensor(Ph 1-14)
+2)mpu 6050(altitude and acceleration)
+3)tds sensor(analogue)
+4)BME280(temperature humidity and air pressure)
+5)MH-Z19B(CO₂)
+6)MQ-2(air quality)
+7)PMS5003(PM2.5)
+
+air monitoring features-
+1)AQI calculation
+2)pollution alert with wifi and gsm
+3)comparision
+
+
+water monitoring-
+1)
